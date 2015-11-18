@@ -2,6 +2,7 @@
 console.log("Yogi is my yogi");
 
 var storage = require('node-persist');
+//local
 
 storage.initSync();
 
