@@ -1,6 +1,7 @@
 // JavaScript Document
 console.log("Yogi is my yogi");
 
+
 var storage = require('node-persist');
 
 storage.initSync();
